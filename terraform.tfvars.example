@@ -1,0 +1,17 @@
+project_prefix     = "prefix"
+owner_tag          = "user@email.com"
+
+pm_api_url          = "https://proxmox:8006/api2/json"
+pm_api_token_id     = "root@pam!mytoken"
+pm_api_token_secret = "........-....-....-....-............"
+pve_host            = "proxmox"
+pve_user            = "root"
+pve_password        = "..........."
+
+f5xc_api_url      = "https://tenant.console.ves.volterra.io/api"
+f5xc_api_p12_file = "..."
+f5xc_tenant       = "tenant-....."
+f5xc_api_token    = "............................"
+f5xc_reg_url      = "ves.volterra.io"
+#
+
