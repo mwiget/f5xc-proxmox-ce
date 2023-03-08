@@ -30,7 +30,7 @@ module "proxmox1" {
   outside_network       = "vmbr0"
   dnsservers            = {
     primary = "8.8.8.8"
-    secondary = "4.4.4.4"
+    secondary = "8.8.4.4"
   }
   publicdefaultgateway  = "192.168.40.1"
   publicdefaultroute    = "0.0.0.0/0"
